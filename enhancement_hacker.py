@@ -13,7 +13,7 @@ import os
 import sys
 
 try:
-    import nbts
+    import nbt
 except ImportError, error:
    nbt = None
 
