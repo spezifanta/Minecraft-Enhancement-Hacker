@@ -1,0 +1,4 @@
+nbt.py
+*.pyc
+*.dat
+*.swp
