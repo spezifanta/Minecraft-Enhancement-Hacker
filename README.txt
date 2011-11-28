@@ -1,5 +1,11 @@
 Minecraft Enhancement Hacker
 
+Rais your experience level to get higher enhancement levels for items on
+Minecraft. This tool works for single and multiplayer player.dat files.
+
+Remember: cheating sucks. It was never the intention of the author to cheat.
+It was designed for testing only.
+
 
 Install
 -------
@@ -12,7 +18,7 @@ Install
 Usage
 -----
 
-    1.  Backup your level.dat or <PLAYERNAME>.dat files first as the may get corrupt.
+    1.  Backup your level.dat or <PLAYERNAME>.dat files first as they may get corrupt.
     2.  /enhancement_hacker.py <level.dat> <xp level>
 
 
@@ -35,6 +41,6 @@ Credits
 
     codewarrior0 for his NBT library (https://github.com/codewarrior0/pymclevel/)
     Bluthund
-    Leluck
+    LeLuck
     Adrina_Broher
     www.schlachtfestchen.de
